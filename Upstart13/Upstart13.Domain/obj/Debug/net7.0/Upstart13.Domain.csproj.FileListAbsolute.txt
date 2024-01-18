@@ -1,0 +1,11 @@
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\bin\Debug\net7.0\Upstart13.Domain.deps.json
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\bin\Debug\net7.0\Upstart13.Domain.dll
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\bin\Debug\net7.0\Upstart13.Domain.pdb
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.dll
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\refint\Upstart13.Domain.dll
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\Upstart13.Domain.pdb
+C:\Users\gusta\OneDrive\Desktop\Upstart13\Upstart13.Domain\obj\Debug\net7.0\ref\Upstart13.Domain.dll
